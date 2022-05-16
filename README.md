@@ -1,5 +1,5 @@
 
-# Facemask Recognition using VOSK
+# Facemask Recognition using VGG model
 
 Facemask Recognition on via webcam with above 95% accuracy using VGG and another one using Keras and tensorflow while using SDD to train the Model.
 As a side project the dataCollector File can be called as Face Recognition project.
